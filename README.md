@@ -1,4 +1,4 @@
-# Ripple20 - CyRAACS Payload
+# Ripple20 - Payload
 
 This script tests for vulnerabilities in the **Treck TCP/IP stack** by sending a custom payload to the target server. The payload contains the string `"CyRAACS is able to inject payload in the server"`. It then listens for a response from the server to determine if the packets were mishandled.
 
